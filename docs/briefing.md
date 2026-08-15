@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-08-15T16:01:31.510Z · Next: **Gameweek 1** · Deadline: **2026-08-21T17:30:00Z** (UTC)
+Generated: 2026-08-15T16:33:33.808Z · Next: **Gameweek 1** · Deadline: **2026-08-21T17:30:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 0
 
 ## ALERTS
@@ -58,7 +58,7 @@ League standings not available yet (season not started or league empty).
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Haaland | MCI | 15.5 | 73.3 | 19.24 | 0.0 | 4.0 | 0.86 | 3.17 | 2.7 |
 | Thiago | BRE | 8.0 | 16.1 | 13.47 | 0.0 | 2.5 | 0.62 | 5.87 | 2.7 |
-| João Pedro | CHE | 7.5 | 56.2 | 12.33 | 0.0 | 2.3 | 0.57 | 4.67 | 3.3 |
+| João Pedro | CHE | 7.5 | 56.3 | 12.33 | 0.0 | 2.3 | 0.57 | 4.67 | 3.3 |
 | Watkins | AVL | 8.0 | 12.5 | 12.26 | 0.0 | 2.5 | 0.53 | 2.99 | 3.0 |
 | Calvert-Lewin | LEE | 6.0 | 25.6 | 11.07 | 0.0 | 2.0 | 0.55 | 3.47 | 3.0 |
 | Richarlison | TOT | 6.0 | 2.0 | 10.75 | 0.0 | 2.0 | 0.47 | 6.77 | 2.7 |
@@ -88,11 +88,11 @@ League standings not available yet (season not started or league empty).
 | Player | Team | £ | GI − xGI |
 | --- | --- | --- | --- |
 | Yeremy | CRY | 5.5 | -6.7 |
-| Brooks | BOU | 5.0 | -5.2 |
 | Mateta | CRY | 6.5 | -3.7 |
 | Enzo | CHE | 7.0 | -3.5 |
 | Jensen | BRE | 5.5 | -3.3 |
 | Amad | MUN | 6.0 | -3.2 |
+| Richards | CRY | 5.0 | -3.0 |
 
 **Regression risk (riding luck):**
 | Player | Team | £ | GI − xGI |
@@ -121,6 +121,27 @@ League standings not available yet (season not started or league empty).
 | Tarkowski | EVE | DEF | 6.0 | 9.7 | 12.75 |
 | Matheus N. | MCI | DEF | 6.0 | 4.5 | 12.68 |
 | Ballard | SUN | DEF | 5.0 | 4.6 | 12.59 |
+
+## BUDGET GEMS — enablers £4.5 and under, ranked by likelihood of playing
+
+| Player | Team | Pos | £ | ep_next | Mins | Owned% | DefCon/90 | Next 3 | Play-likelihood |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mheuka | CHE | FWD | 4.5 | 1.0 | 1 | 0.4 | 90 | FUL(A)3 BHA(H)2 ARS(A)5 | 10.1 |
+| Fredricson | MUN | DEF | 4.0 | 1.0 | 2 | 0.1 | 90 | HUL(A)2 IPS(H)2 EVE(A)3 | 10.0 |
+| Shaw | MUN | DEF | 4.5 | 1.7 | 3220 | 24.2 | 6.26 | HUL(A)2 IPS(H)2 EVE(A)3 | 5.3 |
+| Drakes-Thomas | CRY | MID | 4.5 | 1.0 | 7 | 0.1 | 38.57 | EVE(A)3 MCI(H)4 FUL(A)3 | 4.9 |
+| Konsa | AVL | DEF | 4.5 | 1.7 | 3035 | 15.8 | 5.81 | BHA(A)3 ARS(H)4 HUL(A)2 | 4.7 |
+| Diop | IPS | DEF | 4.0 | 1.0 | 812 | 18.4 | 6.76 | SUN(H)2 MUN(A)4 LIV(H)4 | 4.4 |
+| D.Essugo | CHE | MID | 4.5 | 1.0 | 26 | 0.2 | 27.69 | FUL(A)3 BHA(H)2 ARS(A)5 | 3.8 |
+| Hughes | CRY | MID | 4.5 | 1.0 | 1560 | 11.2 | 8.54 | EVE(A)3 MCI(H)4 FUL(A)3 | 3.5 |
+| Cash | AVL | DEF | 4.5 | 1.7 | 3016 | 8.5 | 5.55 | BHA(A)3 ARS(H)4 HUL(A)2 | 3.5 |
+| Mitchell | CRY | DEF | 4.5 | 1.7 | 3253 | 6.9 | 6.78 | EVE(A)3 MCI(H)4 FUL(A)3 | 3.4 |
+| van Ewijk | COV | DEF | 4.0 | 1.0 | 0 | 15.4 | 0 | ARS(A)5 HUL(H)2 MCI(A)5 | 3.3 |
+| Spence | TOT | DEF | 4.5 | 1.7 | 2049 | 6.1 | 5.1 | BRE(A)3 NEW(H)2 NFO(A)3 | 3.1 |
+| Hume | SUN | DEF | 4.5 | 1.7 | 3032 | 5.2 | 6.03 | IPS(A)2 FUL(H)2 BRE(A)3 | 3.1 |
+| Aina | NFO | DEF | 4.5 | 1.7 | 1587 | 4.3 | 7.37 | LEE(H)2 LIV(A)4 TOT(H)3 | 3.1 |
+
+**£4.0-or-less bargain bin (likely starters):** Fredricson (MUN, DEF, £4.0), Diop (IPS, DEF, £4.0), van Ewijk (COV, DEF, £4.0)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
