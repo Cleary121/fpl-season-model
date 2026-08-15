@@ -1,0 +1,38 @@
+name: FPL pre-chew
+
+on:
+  schedule:
+    - cron: '0 6 * * *'     # daily 06:00 UTC — keeps briefing fresh for ad-hoc checks
+    - cron: '30 15 * * 4'   # Thursday 15:30 UTC — right before the weekly Claude report
+  workflow_dispatch:         # manual run button
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prechew
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build briefing
+        run: node scripts/build.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "fpl-prechew-bot"
+          git config user.email "actions@github.com"
+          git add docs snapshots
+          git diff --cached --quiet && echo "No changes" || git commit -m "prechew: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
