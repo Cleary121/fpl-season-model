@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-08-21T06:41:37.224Z · Next: **Gameweek 1** · Deadline: **2026-08-21T17:30:00Z** (UTC)
+Generated: 2026-08-22T06:35:34.784Z · Next: **Gameweek 2** · Deadline: **2026-08-28T17:30:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 0
 
 ## ALERTS
@@ -9,14 +9,53 @@ Entry 3509857 · League "La liga money" (167948) · Finished GWs: 0
 
 ## MY SQUAD
 
-Squad not publicly visible yet (picks appear after the GW1 deadline). Use the baseline squad in the FF 2026 project playbook.
+Bank: £0.0m · Value: £100.0m · Chips used: none
+| Player | Team | Pos | £ | Form | ep_next | xGI diff | DefCon/90 | Score | Next 3 | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Raya | ARS | GKP | 6.0 | 6.0 | 4.0 | 0.0 | 0 | 13.35 | AVL(A)4 CHE(H)4 SUN(A)3 | OK |
+| Dubravka | TOT | GKP | 4.0 | 0.0 | 1.0 | 0.0 | 0 | 2.85 | NEW(H)2 NFO(A)3 EVE(H)3 | OK |
+| Calafiori | ARS | DEF | 5.5 | 9.0 | 2.5 | 0.9 | 5.62 | 15.67 | AVL(A)4 CHE(H)4 SUN(A)3 | OK |
+| Diop | IPS | DEF | 4.0 | 0.0 | 1.0 | 0.0 | 0 | 1.35 | MUN(A)4 LIV(H)4 CRY(A)3 | OK |
+| Rodon | LEE | DEF | 4.5 | 0.0 | 1.7 | 0.0 | 0 | 3.97 | BRE(H)3 BHA(A)3 NEW(H)2 | OK |
+| Virgil | LIV | DEF | 6.5 | 0.0 | 3.1 | 0.0 | 0 | 6.71 | NFO(H)3 IPS(A)2 FUL(H)2 | OK |
+| Hume | SUN | DEF | 4.5 | 0.0 | 1.7 | 0.0 | 0 | 3.47 | FUL(H)2 BRE(A)3 ARS(H)4 | OK |
+| Ødegaard | ARS | MID | 6.5 | 11.0 | 2.3 | 0.7 | 9.6 | 18.23 | AVL(A)4 CHE(H)4 SUN(A)3 | OK |
+| McGinn | AVL | MID | 5.5 | 0.0 | 2.0 | 0.0 | 0 | 3.95 | ARS(H)4 HUL(A)2 NFO(H)3 | OK |
+| Rogers | CHE | MID | 7.5 | 0.0 | 2.6 | 0.0 | 0 | 4.91 | BHA(H)2 ARS(A)5 HUL(H)2 | OK |
+| Caicedo | CHE | MID | 5.5 | 0.0 | 2.0 | 0.0 | 0 | 3.95 | BHA(H)2 ARS(A)5 HUL(H)2 | OK |
+| Mbeumo | MUN | MID | 8.0 | 0.0 | 2.8 | 0.0 | 0 | 5.23 | IPS(H)2 EVE(A)3 MCI(H)4 | OK |
+| João Pedro | CHE | FWD | 7.5 | 0.0 | 2.4 | 0.0 | 0 | 4.59 | BHA(H)2 ARS(A)5 HUL(H)2 | OK |
+| Isak | LIV | FWD | 9.0 | 0.0 | 2.7 | 0.0 | 0 | 6.07 | NFO(H)3 IPS(A)2 FUL(H)2 | OK |
+| Haaland | MCI | FWD | 15.5 | 0.0 | 4.0 | 0.0 | 0 | 7.15 | CRY(A)3 COV(H)2 MUN(A)4 | OK |
 
 ## LA LIGA MONEY (main league)
 
-League standings not available yet (season not started or league empty).
+| Rank | Manager | Team | Total | GW |
+| --- | --- | --- | --- | --- |
+| 1 | David Cleary | Premier FC ⬅ DAVID | 37 | 37 |
+| 2 | joe myers | Top bin 27 | 28 | 28 |
+| 3 | Isaac Mulhall | Glök14 | 21 | 21 |
+| 3 | G C | The GC Effect | 21 | 21 |
+| 5 | Timmy mahon | Timskings | 15 | 15 |
+| 5 | Tom Murphy | McGinn & Tonic | 15 | 15 |
+| 7 | Adam Scott | Adam's Team | 9 | 9 |
+| 8 | Declan Murphy | Luke Chadwick FC | 5 | 5 |
+| 9 | Derek Mulhall | Redbullgivesyouwins | 0 | 0 |
+
+David: rank 1 of 9+ · 0 pts behind 1st.
+- Rival "Top bin 27" (rank 2, 28 pts): captain Tzolis; owns that David doesn't: Donnarumma, White, Gabriel, Maguire, Semenyo, Tzolis
+- Rival "Glök14" (rank 3, 21 pts): captain B.Fernandes; owns that David doesn't: N.Williams, Shaw, B.Fernandes, Tzolis, Ndiaye, Calvert-Lewin
+- Rival "The GC Effect" (rank 3, 21 pts): captain Tzolis; owns that David doesn't: Verbruggen, Tarkowski, Maguire, O'Reilly, B.Fernandes, Semenyo
 
 ## CAPTAINCY RANKING (from squad)
 
+| Player | ep_next | Next fixture | FDR | Verdict |
+| --- | --- | --- | --- | --- |
+| Haaland | 4.0 | CRY (A) | 3 | CAPTAIN |
+| Mbeumo | 2.8 | IPS (H) | 2 | vice |
+| Isak | 2.7 | NFO (H) | 3 |  |
+| Rogers | 2.6 | BHA (H) | 2 |  |
+| João Pedro | 2.4 | BHA (H) | 2 |  |
 
 ## MODEL SCORE — top targets by position (score = form/PPG + ep_next + xGI/90 + DefCon + fixtures)
 
@@ -24,146 +63,122 @@ League standings not available yet (season not started or league empty).
 **GKP**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Raya | ARS | 6.0 | 36.8 | 11.94 | 0.0 | 4.0 | 0.00 | 0 | 3.3 |
-| Benitez | CRY | 4.5 | 0.1 | 11.69 | 0.0 | 1.9 | 0.00 | 0 | 3.3 |
-| Donnarumma | MCI | 5.5 | 8.6 | 11.35 | 0.0 | 3.3 | 0.00 | 0 | 2.7 |
-| Ellborg | SUN | 4.5 | 0.1 | 11.15 | 0.0 | 1.9 | 0.00 | 0 | 2.3 |
+| Raya | ARS | 6.0 | 37.6 | 13.35 | 6.0 | 4.0 | 0.00 | 0 | 3.7 |
+| A.Becker | LIV | 5.5 | 3.5 | 7.03 | 0.0 | 3.3 | 0.00 | 0 | 2.3 |
+| Donnarumma | MCI | 5.5 | 8.2 | 6.03 | 0.0 | 3.3 | 0.00 | 0 | 3.0 |
+| Mamardashvili | LIV | 5.0 | 0.2 | 5.91 | 0.0 | 2.6 | 0.00 | 0 | 2.3 |
 
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gabriel | ARS | 8.0 | 29.7 | 16.88 | 0.0 | 4.0 | 0.15 | 9.07 | 3.3 |
-| O'Reilly | MCI | 6.5 | 21.3 | 14.22 | 0.0 | 3.1 | 0.30 | 5.86 | 2.7 |
-| Guéhi | MCI | 6.0 | 18.2 | 14.17 | 0.0 | 2.8 | 0.18 | 7.94 | 2.7 |
-| Virgil | LIV | 6.5 | 18.6 | 14.13 | 0.0 | 3.1 | 0.14 | 9.26 | 2.7 |
-| Senesi | TOT | 6.0 | 8.6 | 14.05 | 0.0 | 2.8 | 0.17 | 11.47 | 2.7 |
-| Mukiele | SUN | 5.5 | 2.4 | 13.71 | 0.0 | 2.5 | 0.14 | 8.83 | 2.3 |
-| Tarkowski | EVE | 6.0 | 9.1 | 12.75 | 0.0 | 2.8 | 0.13 | 10.16 | 3.3 |
-| Gvardiol | MCI | 5.5 | 11.0 | 12.66 | 0.0 | 2.5 | 0.19 | 6.77 | 2.7 |
+| White | ARS | 5.5 | 4.6 | 17.95 | 11.0 | 2.5 | 0.00 | 5 | 3.7 |
+| Calafiori | ARS | 5.5 | 39.8 | 15.67 | 9.0 | 2.5 | 0.00 | 5.62 | 3.7 |
+| Gabriel | ARS | 8.0 | 29.7 | 12.95 | 5.0 | 4.0 | 0.00 | 4 | 3.7 |
+| Mosquera | ARS | 5.5 | 6.3 | 12.15 | 6.0 | 2.5 | 0.00 | 6 | 3.7 |
+| Thomas | COV | 4.0 | 8.1 | 7.95 | 3.0 | 1.0 | 0.00 | 10 | 3.0 |
+| Virgil | LIV | 6.5 | 19.0 | 6.71 | 0.0 | 3.1 | 0.00 | 0 | 2.3 |
+| Frimpong | LIV | 5.5 | 3.5 | 5.75 | 0.0 | 2.5 | 0.00 | 0 | 2.3 |
+| Kerkez | LIV | 5.5 | 3.8 | 5.75 | 0.0 | 2.5 | 0.00 | 0 | 2.3 |
 
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| B.Fernandes | MUN | 12.0 | 50.9 | 20.3 | 0.0 | 4.0 | 0.68 | 8.43 | 2.3 |
-| Semenyo | MCI | 8.5 | 26.4 | 15.2 | 0.0 | 2.9 | 0.40 | 6.64 | 2.7 |
-| Saka | ARS | 9.5 | 9.2 | 15.13 | 0.0 | 3.2 | 0.60 | 7.47 | 3.3 |
-| Mbeumo | MUN | 8.0 | 36.1 | 14.77 | 0.0 | 2.8 | 0.58 | 4.79 | 2.3 |
-| Cherki | MCI | 7.5 | 7.8 | 14.14 | 0.0 | 2.6 | 0.67 | 6.86 | 2.7 |
-| Cunha | MUN | 8.0 | 10.5 | 14.14 | 0.0 | 2.8 | 0.37 | 7.62 | 2.3 |
-| Palmer | CHE | 9.5 | 10.5 | 14.09 | 0.0 | 3.2 | 0.60 | 6.22 | 3.3 |
-| Gibbs-White | NFO | 8.0 | 11.9 | 13.8 | 0.0 | 2.8 | 0.40 | 5.17 | 3.0 |
+| Ødegaard | ARS | 6.5 | 8.3 | 18.23 | 11.0 | 2.3 | 0.00 | 9.6 | 3.7 |
+| Saka | ARS | 9.5 | 9.4 | 17.24 | 9.0 | 3.2 | 0.00 | 9.4 | 3.7 |
+| Tzolis | ARS | 6.5 | 25.2 | 11.83 | 6.0 | 2.3 | 0.00 | 7.2 | 3.7 |
+| Rice | ARS | 7.5 | 18.0 | 8.85 | 3.0 | 2.6 | 0.00 | 8.06 | 3.7 |
+| Tchaouna | COV | 5.5 | 0.1 | 7.83 | 2.0 | 2.0 | 0.00 | 8.89 | 3.0 |
+| Lewis-Skelly | ARS | 5.5 | 0.7 | 7.72 | 3.0 | 2.0 | 0.00 | 7 | 3.7 |
+| B.Fernandes | MUN | 12.0 | 51.9 | 7.15 | 0.0 | 4.0 | 0.00 | 0 | 3.0 |
+| Onyeka | COV | 5.0 | 0.2 | 7.05 | 2.0 | 1.5 | 0.00 | 9 | 3.0 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Haaland | MCI | 15.5 | 69.4 | 19.24 | 0.0 | 4.0 | 0.86 | 3.17 | 2.7 |
-| Thiago | BRE | 8.0 | 17.5 | 13.47 | 0.0 | 2.5 | 0.62 | 5.87 | 2.7 |
-| João Pedro | CHE | 7.5 | 63.1 | 12.49 | 0.0 | 2.4 | 0.57 | 4.67 | 3.3 |
-| Watkins | AVL | 8.0 | 11.0 | 12.26 | 0.0 | 2.5 | 0.53 | 2.99 | 3.0 |
-| Calvert-Lewin | LEE | 6.0 | 30.1 | 11.07 | 0.0 | 2.0 | 0.55 | 3.47 | 3.0 |
-| Richarlison | TOT | 6.0 | 3.0 | 10.75 | 0.0 | 2.0 | 0.47 | 6.77 | 2.7 |
-| Gyökeres | ARS | 7.5 | 9.7 | 10.71 | 0.0 | 2.4 | 0.58 | 3.45 | 3.3 |
-| Mateta | CRY | 6.5 | 5.8 | 10.49 | 0.0 | 2.1 | 0.64 | 5.09 | 3.3 |
+| Havertz | ARS | 7.5 | 5.6 | 10.79 | 6.0 | 2.4 | 0.00 | 2 | 3.7 |
+| Haaland | MCI | 15.5 | 69.4 | 7.15 | 0.0 | 4.0 | 0.00 | 0 | 3.0 |
+| Isak | LIV | 9.0 | 16.8 | 6.07 | 0.0 | 2.7 | 0.00 | 0 | 2.3 |
+| Thomas-Asante | COV | 5.0 | 0.8 | 5.39 | 2.0 | 1.4 | 0.00 | 7.83 | 3.0 |
+| Simms | COV | 5.0 | 0.9 | 5.39 | 2.0 | 1.4 | 0.00 | 3.91 | 3.0 |
+| Thiago | BRE | 8.0 | 17.1 | 5.25 | 0.0 | 2.5 | 0.00 | 0 | 2.7 |
+| Awoniyi | COV | 5.5 | 0.9 | 4.83 | 1.0 | 1.8 | 0.00 | 4.5 | 3.0 |
+| Watkins | AVL | 8.0 | 10.3 | 4.75 | 0.0 | 2.5 | 0.00 | 0 | 3.0 |
 
 ## DEFCON BANKERS (hidden +2/game: DEF ≥10, MID ≥12 actions/90)
 
 | Player | Team | Pos | £ | DefCon/90 | Season pts |
 | --- | --- | --- | --- | --- | --- |
-| Anderson | MCI | MID | 6.5 | 13.91 | 180 |
-| Bentancur | TOT | MID | 5.5 | 13.31 | 86 |
-| Wieffer | BHA | DEF | 5.0 | 12.74 | 94 |
-| Scott | BOU | MID | 6.0 | 12.2 | 136 |
-| Ampadu | LEE | MID | 5.5 | 12 | 134 |
-| Danso | TOT | DEF | 5.0 | 11.61 | 63 |
-| Senesi | TOT | DEF | 6.0 | 11.47 | 175 |
-| Canvot | CRY | DEF | 5.0 | 11.43 | 72 |
-| J.Cuenca | FUL | DEF | 4.5 | 11.26 | 39 |
-| Hill | BOU | DEF | 5.5 | 11.13 | 110 |
-| Ballard | SUN | DEF | 5.0 | 11.08 | 116 |
-| Sessegnon | FUL | DEF | 4.5 | 10.8 | 95 |
 
 ## xGI TRUTH-TELLER
 
 **Buy low (unlucky):**
 | Player | Team | £ | GI − xGI |
 | --- | --- | --- | --- |
-| Yeremy | CRY | 5.5 | -6.7 |
-| Mateta | CRY | 6.5 | -3.7 |
-| Enzo | CHE | 7.0 | -3.5 |
-| Jensen | BRE | 5.5 | -3.3 |
-| Amad | MUN | 6.0 | -3.2 |
-| Richards | CRY | 5.0 | -3.0 |
 
 **Regression risk (riding luck):**
 | Player | Team | £ | GI − xGI |
 | --- | --- | --- | --- |
-| B.Fernandes | MUN | 12.0 | +9.9 |
-| Semenyo | MCI | 8.5 | +8.8 |
-| Wilson | LEE | 6.5 | +8.3 |
-| João Pedro | CHE | 7.5 | +7.1 |
-| Rogers | CHE | 7.5 | +6.8 |
-| Haaland | MCI | 15.5 | +6.8 |
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Raya (+0), Arrizabalaga (+0), Meslier (+0), Gabriel (+0), J.Timber (+0), Saliba (+0), Lewis-Skelly (+0), Calafiori (+0)
-**Likely fallers:** Raya (0), Arrizabalaga (0), Meslier (0), Gabriel (0), J.Timber (0), Saliba (0), Lewis-Skelly (0), Calafiori (0)
+**Likely risers:** Calafiori (+30560), Tzolis (+20651), Havertz (+15927), Ødegaard (+14489), Van Hecke (+7446), Cash (+7095), João Pedro (+6117), White (+5678)
+**Likely fallers:** Pedro Porro (-50939), Gyökeres (-23044), Van de Ven (-21124), Konsa (-16571), Bruno G. (-13307), Spence (-9290), Doku (-7601), Rice (-6706)
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
 | Player | Team | Pos | £ | Owned% | Score |
 | --- | --- | --- | --- | --- | --- |
-| Saka | ARS | MID | 9.5 | 9.2 | 15.13 |
-| Cherki | MCI | MID | 7.5 | 7.8 | 14.14 |
-| Senesi | TOT | DEF | 6.0 | 8.6 | 14.05 |
-| Mukiele | SUN | DEF | 5.5 | 2.4 | 13.71 |
-| Anderson | MCI | MID | 6.5 | 8.5 | 13.41 |
-| O.Dango | BRE | MID | 6.5 | 1.3 | 13.1 |
-| Foden | MCI | MID | 7.0 | 4.3 | 13.07 |
-| Enzo | CHE | MID | 7.0 | 5.1 | 12.85 |
+| Ødegaard | ARS | MID | 6.5 | 8.3 | 18.23 |
+| White | ARS | DEF | 5.5 | 4.6 | 17.95 |
+| Saka | ARS | MID | 9.5 | 9.4 | 17.24 |
+| Mosquera | ARS | DEF | 5.5 | 6.3 | 12.15 |
+| Havertz | ARS | FWD | 7.5 | 5.6 | 10.79 |
+| Thomas | COV | DEF | 4.0 | 8.1 | 7.95 |
+| Tchaouna | COV | MID | 5.5 | 0.1 | 7.83 |
+| Lewis-Skelly | ARS | MID | 5.5 | 0.7 | 7.72 |
 
 ## BUDGET GEMS — enablers £4.5 and under, ranked by likelihood of playing
 
 | Player | Team | Pos | £ | ep_next | Mins | Owned% | DefCon/90 | Next 3 | Play-likelihood |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mheuka | CHE | FWD | 4.5 | 1.0 | 1 | 0.3 | 90 | FUL(A)3 BHA(H)2 ARS(A)5 | 10.0 |
-| Shaw | MUN | DEF | 4.5 | 1.7 | 3220 | 21.5 | 6.26 | HUL(A)2 IPS(H)2 EVE(A)3 | 5.3 |
-| Drakes-Thomas | CRY | MID | 4.5 | 1.0 | 7 | 0.1 | 38.57 | EVE(A)3 MCI(H)4 FUL(A)3 | 4.9 |
-| Konsa | AVL | DEF | 4.5 | 1.7 | 3035 | 15.2 | 5.81 | BHA(A)3 ARS(H)4 HUL(A)2 | 4.6 |
-| Diop | IPS | DEF | 4.0 | 1.0 | 812 | 18.1 | 6.76 | SUN(H)2 MUN(A)4 LIV(H)4 | 4.4 |
-| D.Essugo | CHE | MID | 4.5 | 1.0 | 26 | 0.2 | 27.69 | FUL(A)3 BHA(H)2 ARS(A)5 | 3.8 |
-| Hughes | CRY | MID | 4.5 | 1.0 | 1560 | 11.8 | 8.54 | EVE(A)3 MCI(H)4 FUL(A)3 | 3.6 |
-| Cash | AVL | DEF | 4.5 | 1.7 | 3016 | 8.5 | 5.55 | BHA(A)3 ARS(H)4 HUL(A)2 | 3.5 |
-| Mitchell | CRY | DEF | 4.5 | 1.7 | 3253 | 6.5 | 6.78 | EVE(A)3 MCI(H)4 FUL(A)3 | 3.4 |
-| Hume | SUN | DEF | 4.5 | 1.7 | 3032 | 6.6 | 6.03 | IPS(A)2 FUL(H)2 BRE(A)3 | 3.3 |
-| van Ewijk | COV | DEF | 4.0 | 1.0 | 0 | 14.2 | 0 | ARS(A)5 HUL(H)2 MCI(A)5 | 3.1 |
-| Ajer | BRE | DEF | 4.5 | 1.7 | 1805 | 2.7 | 9.57 | TOT(H)3 LEE(A)3 SUN(H)2 | 3.1 |
-| Kusi-Asare | FUL | FWD | 4.5 | 1.0 | 49 | 7.5 | 9.18 | CHE(H)4 SUN(A)3 CRY(H)3 | 3.0 |
-| Aina | NFO | DEF | 4.5 | 1.7 | 1587 | 3.8 | 7.37 | LEE(H)2 LIV(A)4 TOT(H)3 | 3.0 |
+| Shaw | MUN | DEF | 4.5 | 1.7 | 0 | 21.6 | 0 | IPS(H)2 EVE(A)3 MCI(H)4 | 4.7 |
+| van Ewijk | COV | DEF | 4.0 | 1.0 | 90 | 14.0 | 7 | HUL(H)2 MCI(A)5 BHA(H)2 | 3.8 |
+| Diop | IPS | DEF | 4.0 | 1.0 | 0 | 18.5 | 0 | MUN(A)4 LIV(H)4 CRY(A)3 | 3.8 |
+| Konsa | ARS | DEF | 4.5 | 1.7 | 0 | 13.2 | 0 | AVL(A)4 CHE(H)4 SUN(A)3 | 3.7 |
+| Thomas | COV | DEF | 4.0 | 1.0 | 90 | 8.1 | 10 | HUL(H)2 MCI(A)5 BHA(H)2 | 3.2 |
+| Cash | AVL | DEF | 4.5 | 1.7 | 0 | 8.9 | 0 | ARS(H)4 HUL(A)2 NFO(H)3 | 3.0 |
+| Hughes | CRY | MID | 4.5 | 1.0 | 0 | 12.2 | 0 | MCI(H)4 FUL(A)3 IPS(H)2 | 2.8 |
+| Hume | SUN | DEF | 4.5 | 1.7 | 0 | 7.1 | 0 | FUL(H)2 BRE(A)3 ARS(H)4 | 2.8 |
+| Mitchell | CRY | DEF | 4.5 | 1.7 | 0 | 6.4 | 0 | MCI(H)4 FUL(A)3 IPS(H)2 | 2.7 |
+| Robertson | TOT | DEF | 4.5 | 1.7 | 0 | 4.0 | 0 | NEW(H)2 NFO(A)3 EVE(H)3 | 2.3 |
+| Rodon | LEE | DEF | 4.5 | 1.7 | 0 | 3.7 | 0 | BRE(H)3 BHA(A)3 NEW(H)2 | 2.3 |
+| Aina | NFO | DEF | 4.5 | 1.7 | 0 | 3.7 | 0 | LIV(A)4 TOT(H)3 AVL(A)4 | 2.3 |
+| Ajer | BRE | DEF | 4.5 | 1.7 | 0 | 3.5 | 0 | LEE(A)3 SUN(H)2 BOU(A)3 | 2.2 |
+| Kayode | BRE | DEF | 4.5 | 1.7 | 0 | 3.2 | 0 | LEE(A)3 SUN(H)2 BOU(A)3 | 2.2 |
 
-**£4.0-or-less bargain bin (likely starters):** Diop (IPS, DEF, £4.0), van Ewijk (COV, DEF, £4.0)
+**£4.0-or-less bargain bin (likely starters):** van Ewijk (COV, DEF, £4.0), Diop (IPS, DEF, £4.0), Thomas (COV, DEF, £4.0)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
 | Team | Avg FDR | Fixtures |
 | --- | --- | --- |
-| EVE | 2.83 | GW1:CRY(H)3 GW2:BOU(A)3 GW3:MUN(H)4 GW4:TOT(A)3 GW5:IPS(H)2 GW6:HUL(A)2 |
-| LIV | 2.83 | GW1:NEW(A)3 GW2:NFO(H)3 GW3:IPS(A)2 GW4:FUL(H)2 GW5:BOU(A)3 GW6:MCI(H)4 |
-| MUN | 2.83 | GW1:HUL(A)2 GW2:IPS(H)2 GW3:EVE(A)3 GW4:MCI(H)4 GW5:FUL(A)3 GW6:TOT(H)3 |
-| NEW | 2.83 | GW1:LIV(H)4 GW2:TOT(A)3 GW3:BOU(H)3 GW4:LEE(A)3 GW5:HUL(H)2 GW6:COV(A)2 |
-| ARS | 3.00 | GW1:COV(H)2 GW2:AVL(A)4 GW3:CHE(H)4 GW4:SUN(A)3 GW5:BHA(A)3 GW6:LEE(H)2 |
-| AVL | 3.00 | GW1:BHA(A)3 GW2:ARS(H)4 GW3:HUL(A)2 GW4:NFO(H)3 GW5:TOT(A)3 GW6:BRE(H)3 |
-| BHA | 3.00 | GW1:AVL(H)3 GW2:CHE(A)4 GW3:LEE(H)2 GW4:COV(A)2 GW5:ARS(H)4 GW6:SUN(A)3 |
-| CHE | 3.00 | GW1:FUL(A)3 GW2:BHA(H)2 GW3:ARS(A)5 GW4:HUL(H)2 GW5:BRE(A)3 GW6:BOU(H)3 |
-| CRY | 3.00 | GW1:EVE(A)3 GW2:MCI(H)4 GW3:FUL(A)3 GW4:IPS(H)2 GW5:LEE(A)3 GW6:NFO(H)3 |
-| IPS | 3.00 | GW1:SUN(H)2 GW2:MUN(A)4 GW3:LIV(H)4 GW4:CRY(A)3 GW5:EVE(A)3 GW6:FUL(H)2 |
-| MCI | 3.00 | GW1:BOU(H)3 GW2:CRY(A)3 GW3:COV(H)2 GW4:MUN(A)4 GW5:SUN(H)2 GW6:LIV(A)4 |
-| NFO | 3.00 | GW1:LEE(H)2 GW2:LIV(A)4 GW3:TOT(H)3 GW4:AVL(A)4 GW5:COV(H)2 GW6:CRY(A)3 |
-| TOT | 3.00 | GW1:BRE(A)3 GW2:NEW(H)2 GW3:NFO(A)3 GW4:EVE(H)3 GW5:AVL(H)3 GW6:MUN(A)4 |
-| SUN | 3.00 | GW1:IPS(A)2 GW2:FUL(H)2 GW3:BRE(A)3 GW4:ARS(H)4 GW5:MCI(A)5 GW6:BHA(H)2 |
-| BRE | 3.17 | GW1:TOT(H)3 GW2:LEE(A)3 GW3:SUN(H)2 GW4:BOU(A)3 GW5:CHE(H)4 GW6:AVL(A)4 |
-| COV | 3.17 | GW1:ARS(A)5 GW2:HUL(H)2 GW3:MCI(A)5 GW4:BHA(H)2 GW5:NFO(A)3 GW6:NEW(H)2 |
-| HUL | 3.17 | GW1:MUN(H)4 GW2:COV(A)2 GW3:AVL(H)3 GW4:CHE(A)4 GW5:NEW(A)3 GW6:EVE(H)3 |
-| LEE | 3.17 | GW1:NFO(A)3 GW2:BRE(H)3 GW3:BHA(A)3 GW4:NEW(H)2 GW5:CRY(H)3 GW6:ARS(A)5 |
-| FUL | 3.33 | GW1:CHE(H)4 GW2:SUN(A)3 GW3:CRY(H)3 GW4:LIV(A)4 GW5:MUN(H)4 GW6:IPS(A)2 |
-| BOU | 3.67 | GW1:MCI(A)5 GW2:EVE(H)3 GW3:NEW(A)3 GW4:BRE(H)3 GW5:LIV(H)4 GW6:CHE(A)4 |
+| NEW | 2.67 | GW2:TOT(A)3 GW3:BOU(H)3 GW4:LEE(A)3 GW5:HUL(H)2 GW6:COV(A)2 GW7:AVL(H)3 |
+| COV | 2.83 | GW2:HUL(H)2 GW3:MCI(A)5 GW4:BHA(H)2 GW5:NFO(A)3 GW6:NEW(H)2 GW7:TOT(A)3 |
+| LIV | 2.83 | GW2:NFO(H)3 GW3:IPS(A)2 GW4:FUL(H)2 GW5:BOU(A)3 GW6:MCI(H)4 GW7:BRE(A)3 |
+| MCI | 2.83 | GW2:CRY(A)3 GW3:COV(H)2 GW4:MUN(A)4 GW5:SUN(H)2 GW6:LIV(A)4 GW7:IPS(H)2 |
+| TOT | 2.83 | GW2:NEW(H)2 GW3:NFO(A)3 GW4:EVE(H)3 GW5:AVL(H)3 GW6:MUN(A)4 GW7:COV(H)2 |
+| AVL | 3.00 | GW2:ARS(H)4 GW3:HUL(A)2 GW4:NFO(H)3 GW5:TOT(A)3 GW6:BRE(H)3 GW7:NEW(A)3 |
+| BHA | 3.00 | GW2:CHE(A)4 GW3:LEE(H)2 GW4:COV(A)2 GW5:ARS(H)4 GW6:SUN(A)3 GW7:CRY(H)3 |
+| CHE | 3.00 | GW2:BHA(H)2 GW3:ARS(A)5 GW4:HUL(H)2 GW5:BRE(A)3 GW6:BOU(H)3 GW7:EVE(A)3 |
+| CRY | 3.00 | GW2:MCI(H)4 GW3:FUL(A)3 GW4:IPS(H)2 GW5:LEE(A)3 GW6:NFO(H)3 GW7:BHA(A)3 |
+| EVE | 3.00 | GW2:BOU(A)3 GW3:MUN(H)4 GW4:TOT(A)3 GW5:IPS(H)2 GW6:HUL(A)2 GW7:CHE(H)4 |
+| FUL | 3.00 | GW2:SUN(A)3 GW3:CRY(H)3 GW4:LIV(A)4 GW5:MUN(H)4 GW6:IPS(A)2 GW7:HUL(H)2 |
+| HUL | 3.00 | GW2:COV(A)2 GW3:AVL(H)3 GW4:CHE(A)4 GW5:NEW(A)3 GW6:EVE(H)3 GW7:FUL(A)3 |
+| MUN | 3.00 | GW2:IPS(H)2 GW3:EVE(A)3 GW4:MCI(H)4 GW5:FUL(A)3 GW6:TOT(H)3 GW7:LEE(A)3 |
+| ARS | 3.17 | GW2:AVL(A)4 GW3:CHE(H)4 GW4:SUN(A)3 GW5:BHA(A)3 GW6:LEE(H)2 GW7:NFO(A)3 |
+| BOU | 3.17 | GW2:EVE(H)3 GW3:NEW(A)3 GW4:BRE(H)3 GW5:LIV(H)4 GW6:CHE(A)4 GW7:SUN(H)2 |
+| SUN | 3.17 | GW2:FUL(H)2 GW3:BRE(A)3 GW4:ARS(H)4 GW5:MCI(A)5 GW6:BHA(H)2 GW7:BOU(A)3 |
+| BRE | 3.33 | GW2:LEE(A)3 GW3:SUN(H)2 GW4:BOU(A)3 GW5:CHE(H)4 GW6:AVL(A)4 GW7:LIV(H)4 |
+| LEE | 3.33 | GW2:BRE(H)3 GW3:BHA(A)3 GW4:NEW(H)2 GW5:CRY(H)3 GW6:ARS(A)5 GW7:MUN(H)4 |
+| NFO | 3.33 | GW2:LIV(A)4 GW3:TOT(H)3 GW4:AVL(A)4 GW5:COV(H)2 GW6:CRY(A)3 GW7:ARS(H)4 |
+| IPS | 3.50 | GW2:MUN(A)4 GW3:LIV(H)4 GW4:CRY(A)3 GW5:EVE(A)3 GW6:FUL(H)2 GW7:MCI(A)5 |
