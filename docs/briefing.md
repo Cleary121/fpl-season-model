@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-09-17T10:57:51.635Z · Next: **Gameweek 5** · Deadline: **2026-09-18T17:30:00Z** (UTC)
+Generated: 2026-09-17T19:09:23.869Z · Next: **Gameweek 5** · Deadline: **2026-09-18T17:30:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 4
 
 ## ALERTS
@@ -65,18 +65,18 @@ David: rank 3 of 9+ · 31 pts behind 1st.
 **GKP**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Raya | ARS | 6.0 | 40.8 | 21.41 | 7.2 | 7.2 | 0.00 | 0 | 2.7 |
+| Raya | ARS | 6.0 | 40.9 | 21.41 | 7.2 | 7.2 | 0.00 | 0 | 2.7 |
 | Tzolakis | HUL | 4.6 | 11.1 | 20.35 | 7.0 | 7.0 | 0.00 | 0 | 3.0 |
 | A.Becker | LIV | 5.5 | 3.9 | 13.69 | 4.8 | 4.8 | 0.00 | 0 | 3.3 |
-| Pickford | EVE | 5.5 | 8.9 | 13.01 | 4.2 | 4.2 | 0.00 | 0 | 2.7 |
+| Pickford | EVE | 5.5 | 9.0 | 13.01 | 4.2 | 4.2 | 0.00 | 0 | 2.7 |
 
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bogle | LEE | 4.5 | 4.1 | 25.91 | 9.2 | 9.2 | 0.00 | 4.52 | 4.0 |
-| Gvardiol | MCI | 5.7 | 24.0 | 25.47 | 8.2 | 8.2 | 0.00 | 6.28 | 2.7 |
-| Tarkowski | EVE | 6.1 | 13.6 | 23.36 | 7.2 | 7.2 | 0.00 | 9.75 | 2.7 |
-| De Cuyper | BHA | 4.9 | 24.1 | 23.14 | 8.0 | 8.0 | 0.00 | 2.43 | 3.3 |
+| Bogle | LEE | 4.5 | 4.5 | 25.91 | 9.2 | 9.2 | 0.00 | 4.52 | 4.0 |
+| Gvardiol | MCI | 5.7 | 24.4 | 25.47 | 8.2 | 8.2 | 0.00 | 6.28 | 2.7 |
+| Tarkowski | EVE | 6.1 | 13.8 | 23.36 | 7.2 | 7.2 | 0.00 | 9.75 | 2.7 |
+| De Cuyper | BHA | 4.9 | 24.2 | 23.14 | 8.0 | 8.0 | 0.00 | 2.43 | 3.3 |
 | Calafiori | ARS | 5.8 | 50.2 | 21.57 | 7.0 | 7.0 | 0.00 | 3.59 | 2.7 |
 | Guéhi | MCI | 6.0 | 18.5 | 20.7 | 6.5 | 6.5 | 0.00 | 6.25 | 2.7 |
 | Maitland-Niles | EVE | 4.5 | 0.8 | 20.48 | 6.5 | 6.5 | 0.00 | 5.17 | 2.7 |
@@ -85,25 +85,25 @@ David: rank 3 of 9+ · 31 pts behind 1st.
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groß | BHA | 5.7 | 19.6 | 24.08 | 8.2 | 8.2 | 0.00 | 5.25 | 3.3 |
-| Saka | ARS | 9.5 | 12.5 | 23.55 | 7.5 | 7.5 | 0.00 | 7.77 | 2.7 |
-| Tavernier | BOU | 6.1 | 5.8 | 21.95 | 7.2 | 7.2 | 0.00 | 9.26 | 3.3 |
-| B.Fernandes | MUN | 12.0 | 41.2 | 21.87 | 7.2 | 7.2 | 0.00 | 5.75 | 3.0 |
+| Groß | BHA | 5.7 | 19.9 | 24.08 | 8.2 | 8.2 | 0.00 | 5.25 | 3.3 |
+| Saka | ARS | 9.5 | 12.6 | 23.55 | 7.5 | 7.5 | 0.00 | 7.77 | 2.7 |
+| Tavernier | BOU | 6.1 | 5.9 | 21.95 | 7.2 | 7.2 | 0.00 | 9.26 | 3.3 |
+| B.Fernandes | MUN | 12.0 | 41.0 | 21.87 | 7.2 | 7.2 | 0.00 | 5.75 | 3.0 |
 | Gakpo | LIV | 7.2 | 12.4 | 21.86 | 7.2 | 7.2 | 0.00 | 8.68 | 3.3 |
 | Scott | BOU | 6.1 | 5.8 | 21.85 | 7.0 | 7.0 | 0.00 | 13.15 | 3.3 |
-| Schade | BRE | 6.1 | 6.5 | 21.39 | 7.5 | 7.5 | 0.00 | 6.81 | 4.0 |
-| Belloumi | HUL | 5.1 | 3.5 | 21.38 | 6.8 | 6.8 | 0.00 | 9.52 | 3.0 |
+| Schade | BRE | 6.1 | 6.7 | 21.39 | 7.5 | 7.5 | 0.00 | 6.81 | 4.0 |
+| Belloumi | HUL | 5.1 | 3.7 | 21.38 | 6.8 | 6.8 | 0.00 | 9.52 | 3.0 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Haaland | MCI | 15.5 | 72.7 | 24.21 | 8.2 | 8.2 | 0.00 | 4.5 | 2.7 |
+| Haaland | MCI | 15.5 | 72.8 | 24.21 | 8.2 | 8.2 | 0.00 | 4.5 | 2.7 |
 | Isak | LIV | 9.1 | 21.9 | 17.61 | 6.2 | 6.2 | 0.00 | 1.62 | 3.3 |
-| Emersonn | IPS | 5.5 | 2.8 | 17.05 | 6.0 | 6.0 | 0.00 | 3.42 | 3.3 |
-| Calvert-Lewin | LEE | 6.0 | 23.4 | 13.25 | 5.0 | 5.0 | 0.00 | 3.83 | 4.0 |
-| Havertz | ARS | 7.6 | 7.9 | 13.01 | 4.2 | 4.2 | 0.00 | 2.59 | 2.7 |
+| Emersonn | IPS | 5.5 | 2.9 | 17.05 | 6.0 | 6.0 | 0.00 | 3.42 | 3.3 |
+| Calvert-Lewin | LEE | 6.0 | 23.9 | 13.25 | 5.0 | 5.0 | 0.00 | 3.83 | 4.0 |
+| Havertz | ARS | 7.6 | 8.0 | 13.01 | 4.2 | 4.2 | 0.00 | 2.59 | 2.7 |
 | Kostoulas | BHA | 5.5 | 0.8 | 12.85 | 4.5 | 4.5 | 0.00 | 7.45 | 3.3 |
-| Wissa | NEW | 6.2 | 18.2 | 12.39 | 3.8 | 3.8 | 0.00 | 5.64 | 2.3 |
+| Wissa | NEW | 6.2 | 18.4 | 12.39 | 3.8 | 3.8 | 0.00 | 5.64 | 2.3 |
 | Evanilson | BOU | 6.0 | 3.3 | 11.45 | 4.0 | 4.0 | 0.00 | 5.93 | 3.3 |
 
 ## DEFCON BANKERS (hidden +2/game: DEF ≥10, MID ≥12 actions/90)
@@ -123,20 +123,19 @@ David: rank 3 of 9+ · 31 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Rogers (+429251), Gibbs-White (+346454), Groß (+343040), Gvardiol (+333819), Schade (+253842), Belloumi (+232614), De Cuyper (+220838), Tavernier (+185272)
-**Likely fallers:** Elanga (-296034), Szoboszlai (-274189), Shaw (-197340), Pedro Porro (-178906), Tzolis (-156089), B.Fernandes (-151558), Thiago (-137665), White (-135742)
+**Likely risers:** Rogers (+457217), Gibbs-White (+388649), Groß (+370451), Gvardiol (+363729), Schade (+268838), Belloumi (+246120), De Cuyper (+234623), Bogle (+209638)
+**Likely fallers:** Elanga (-335836), Szoboszlai (-288722), Shaw (-214996), Pedro Porro (-192393), B.Fernandes (-169195), Tzolis (-168171), White (-151793), Thiago (-145778)
 **In David's squad at drop risk:** M.Sangaré, Cherki
-**Price changes since last build:** Tóth.A 5.0→4.9, De Cuyper 4.8→4.9
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
 | Player | Team | Pos | £ | Owned% | Score |
 | --- | --- | --- | --- | --- | --- |
-| Bogle | LEE | DEF | 4.5 | 4.1 | 25.91 |
-| Tavernier | BOU | MID | 6.1 | 5.8 | 21.95 |
+| Bogle | LEE | DEF | 4.5 | 4.5 | 25.91 |
+| Tavernier | BOU | MID | 6.1 | 5.9 | 21.95 |
 | Scott | BOU | MID | 6.1 | 5.8 | 21.85 |
-| Schade | BRE | MID | 6.1 | 6.5 | 21.39 |
-| Belloumi | HUL | MID | 5.1 | 3.5 | 21.38 |
+| Schade | BRE | MID | 6.1 | 6.7 | 21.39 |
+| Belloumi | HUL | MID | 5.1 | 3.7 | 21.38 |
 | Maitland-Niles | EVE | DEF | 4.5 | 0.8 | 20.48 |
 | Egan | HUL | DEF | 4.1 | 6.9 | 20.11 |
 | Affengruber | FUL | DEF | 4.5 | 0.0 | 19.25 |
@@ -145,12 +144,12 @@ David: rank 3 of 9+ · 31 pts behind 1st.
 
 | Player | Team | Pos | £ | ep_next | Mins | Owned% | DefCon/90 | Next 3 | Play-likelihood |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bogle | LEE | DEF | 4.5 | 9.2 | 299 | 4.1 | 4.52 | CRY(H)3 ARS(A)5 MUN(H)4 | 12.1 |
+| Bogle | LEE | DEF | 4.5 | 9.2 | 299 | 4.5 | 4.52 | CRY(H)3 ARS(A)5 MUN(H)4 | 12.1 |
 | Egan | HUL | DEF | 4.1 | 6.2 | 360 | 6.9 | 13.75 | NEW(A)3 EVE(H)3 FUL(A)3 | 10.6 |
 | Ajayi | HUL | DEF | 4.2 | 6.5 | 333 | 13.8 | 6.22 | NEW(A)3 EVE(H)3 FUL(A)3 | 9.9 |
-| Giles | HUL | DEF | 4.0 | 6.0 | 354 | 2.5 | 4.83 | NEW(A)3 EVE(H)3 FUL(A)3 | 9.4 |
-| Mykolenko | EVE | DEF | 4.5 | 5.5 | 360 | 3.2 | 8.25 | IPS(H)2 HUL(A)2 CHE(H)4 | 9.3 |
-| Davis | IPS | DEF | 4.0 | 5.8 | 360 | 6.4 | 4.75 | EVE(A)3 FUL(H)2 MCI(A)5 | 9.3 |
+| Giles | HUL | DEF | 4.0 | 6.0 | 354 | 2.6 | 4.83 | NEW(A)3 EVE(H)3 FUL(A)3 | 9.4 |
+| Mykolenko | EVE | DEF | 4.5 | 5.5 | 360 | 3.3 | 8.25 | IPS(H)2 HUL(A)2 CHE(H)4 | 9.3 |
+| Davis | IPS | DEF | 4.0 | 5.8 | 360 | 6.5 | 4.75 | EVE(A)3 FUL(H)2 MCI(A)5 | 9.3 |
 | Dunk | BHA | DEF | 4.5 | 5.5 | 360 | 1.5 | 5.75 | ARS(H)4 SUN(A)3 CRY(H)3 | 9.1 |
 | Justin | LEE | DEF | 4.5 | 4.5 | 360 | 1.5 | 8.75 | CRY(H)3 ARS(A)5 MUN(H)4 | 8.4 |
 | Castagne | FUL | DEF | 4.5 | 4.8 | 318 | 0.8 | 5.66 | MUN(H)4 IPS(A)2 HUL(H)2 | 8.0 |
@@ -158,10 +157,10 @@ David: rank 3 of 9+ · 31 pts behind 1st.
 | Thomas | COV | DEF | 4.0 | 3.8 | 347 | 8.8 | 10.12 | NFO(A)3 NEW(H)2 TOT(A)3 | 7.7 |
 | Ajer | BRE | DEF | 4.5 | 3.5 | 360 | 4.2 | 10.25 | CHE(H)4 AVL(A)4 LIV(H)4 | 7.5 |
 | Tosin | TOT | DEF | 4.4 | 0.2 | 5 | 0.2 | 72 | AVL(H)3 MUN(A)4 COV(H)2 | 7.4 |
-| Yalcouyé | BHA | MID | 4.5 | 4.8 | 231 | 3.8 | 7.01 | ARS(H)4 SUN(A)3 CRY(H)3 | 7.4 |
+| Yalcouyé | BHA | MID | 4.5 | 4.8 | 231 | 3.9 | 7.01 | ARS(H)4 SUN(A)3 CRY(H)3 | 7.4 |
 
 **£4.0-or-less bargain bin (likely starters):** Giles (HUL, DEF, £4.0), Davis (IPS, DEF, £4.0), Thomas (COV, DEF, £4.0)
-**Cheap players the crowd is buying now (price-rise watch):** Konsa £4.5 (+183438), Bogle £4.5 (+177518), Davis £4.0 (+120422), Ajayi £4.2 (+117105), Mykolenko £4.5 (+115590)
+**Cheap players the crowd is buying now (price-rise watch):** Bogle £4.5 (+209638), Konsa £4.5 (+195630), Davis £4.0 (+127129), Mykolenko £4.5 (+126747), Ajayi £4.2 (+122480)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
