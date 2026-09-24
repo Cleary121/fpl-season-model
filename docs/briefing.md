@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-09-24T11:06:49.275Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
+Generated: 2026-09-24T19:22:39.860Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 5
 
 ## ALERTS
@@ -68,13 +68,13 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A.Becker | LIV | 5.5 | 4.0 | 19.35 | 6.2 | 6.2 | 0.00 | 0 | 3.0 |
 | Raya | ARS | 6.1 | 42.2 | 19.26 | 6.0 | 6.0 | 0.00 | 0 | 2.7 |
-| Tzolakis | HUL | 4.6 | 12.5 | 18.75 | 6.0 | 6.0 | 0.00 | 0 | 3.0 |
+| Tzolakis | HUL | 4.6 | 12.6 | 18.75 | 6.0 | 6.0 | 0.00 | 0 | 3.0 |
 | Leno | FUL | 4.5 | 3.3 | 14.25 | 4.0 | 4.0 | 0.00 | 0 | 2.0 |
 
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tarkowski | EVE | 6.1 | 16.0 | 29.53 | 9.2 | 9.2 | 0.04 | 10.2 | 3.7 |
+| Tarkowski | EVE | 6.1 | 16.1 | 29.53 | 9.2 | 9.2 | 0.04 | 10.2 | 3.7 |
 | Virgil | LIV | 6.5 | 16.2 | 20.33 | 5.8 | 5.8 | 0.07 | 9.6 | 3.0 |
 | Van Hecke | TOT | 4.9 | 6.6 | 20.26 | 5.8 | 5.8 | 0.22 | 8.6 | 3.3 |
 | Davis | IPS | 4.0 | 6.9 | 20.25 | 5.8 | 5.8 | 0.41 | 4.8 | 3.3 |
@@ -86,14 +86,14 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groß | BHA | 5.8 | 28.1 | 36.82 | 11.2 | 11.2 | 0.53 | 5.2 | 3.3 |
+| Groß | BHA | 5.8 | 28.2 | 36.82 | 11.2 | 11.2 | 0.53 | 5.2 | 3.3 |
 | B.Fernandes | MUN | 11.9 | 38.6 | 26.42 | 7.2 | 7.2 | 0.78 | 5.8 | 3.0 |
-| Semenyo | MCI | 8.4 | 15.6 | 25.58 | 7.8 | 7.8 | 0.30 | 4.4 | 3.3 |
 | Gibbs-White | NFO | 8.0 | 15.7 | 23.33 | 6.5 | 6.5 | 0.60 | 4.2 | 3.0 |
 | Barnes | NEW | 6.1 | 5.5 | 22.73 | 6.5 | 6.5 | 0.22 | 6.6 | 2.7 |
-| Mbeumo | MUN | 7.9 | 20.7 | 22.11 | 5.8 | 5.8 | 0.77 | 5.2 | 3.0 |
+| Mbeumo | MUN | 7.9 | 20.6 | 22.11 | 5.8 | 5.8 | 0.77 | 5.2 | 3.0 |
 | Janelt | BRE | 5.0 | 2.5 | 17.43 | 4.8 | 4.8 | 0.19 | 12.8 | 3.3 |
 | Xhaka | SUN | 5.5 | 3.6 | 13.65 | 3.0 | 3.0 | 0.28 | 10.8 | 2.3 |
+| Ampadu | LEE | 5.4 | 0.9 | 13.52 | 4.0 | 4.0 | 0.07 | 12 | 4.0 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
@@ -117,10 +117,9 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Groß (+701506), Schade (+322424), Kostoulas (+254313), De Cuyper (+235794), Hall (+201243), Tarkowski (+171759), Brobbey (+158080), Barnes (+124756)
-**Likely fallers:** João Pedro (-299679), Szoboszlai (-155654), Elanga (-152298), B.Fernandes (-141969), M.Sangaré (-119714), Tzolis (-117344), Palmer (-90677), Mbeumo (-85921)
+**Likely risers:** Groß (+711190), Schade (+327478), Kostoulas (+257751), De Cuyper (+240845), Hall (+204292), Tarkowski (+175196), Brobbey (+161392), Barnes (+126641)
+**Likely fallers:** João Pedro (-304385), Szoboszlai (-158003), Elanga (-153984), B.Fernandes (-143389), M.Sangaré (-121050), Tzolis (-118550), Palmer (-94287), Mbeumo (-86932)
 **In David's squad at drop risk:** Palmer, João Pedro, Calvert-Lewin
-**Price changes since last build:** Butland 4.5→4.4
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
@@ -155,7 +154,7 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 | Nicoll-Jazuli | CHE | MID | 4.5 | 1.1 | 3 | 0.0 | 60 | BOU(H)3 EVE(A)3 TOT(H)3 | 7.1 |
 
 **£4.0-or-less bargain bin (likely starters):** Latibeaudiere (COV, DEF, £4.0), Davis (IPS, DEF, £4.0), Thomas (COV, DEF, £4.0), Dasilva (COV, DEF, £4.0), Giles (HUL, DEF, £4.0)
-**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+23215), Davis £4.0 (+20374)
+**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+23605), Davis £4.0 (+20598)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
