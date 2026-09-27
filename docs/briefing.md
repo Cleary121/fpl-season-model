@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-09-26T10:49:05.131Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
+Generated: 2026-09-27T11:24:26.325Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 5
 
 ## ALERTS
@@ -74,7 +74,7 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tarkowski | EVE | 6.1 | 16.2 | 29.53 | 9.2 | 9.2 | 0.04 | 10.2 | 3.7 |
+| Tarkowski | EVE | 6.1 | 16.3 | 29.53 | 9.2 | 9.2 | 0.04 | 10.2 | 3.7 |
 | Van Hecke | TOT | 4.9 | 6.6 | 20.26 | 5.8 | 5.8 | 0.22 | 8.6 | 3.3 |
 | Davis | IPS | 4.0 | 6.9 | 20.25 | 5.8 | 5.8 | 0.41 | 4.8 | 3.3 |
 | Virgil | LIV | 6.5 | 16.2 | 19.83 | 5.8 | 5.8 | 0.07 | 9.6 | 3.3 |
@@ -86,8 +86,8 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groß | BHA | 5.8 | 28.5 | 37.32 | 11.2 | 11.2 | 0.53 | 5.2 | 3.0 |
-| B.Fernandes | MUN | 11.9 | 38.6 | 26.92 | 7.2 | 7.2 | 0.78 | 5.8 | 2.7 |
+| Groß | BHA | 5.8 | 28.6 | 37.32 | 11.2 | 11.2 | 0.53 | 5.2 | 3.0 |
+| B.Fernandes | MUN | 11.9 | 38.5 | 26.92 | 7.2 | 7.2 | 0.78 | 5.8 | 2.7 |
 | Gibbs-White | NFO | 8.0 | 15.7 | 23.33 | 6.5 | 6.5 | 0.60 | 4.2 | 3.0 |
 | Barnes | NEW | 6.1 | 5.6 | 22.73 | 6.5 | 6.5 | 0.22 | 6.6 | 2.7 |
 | Mbeumo | MUN | 7.9 | 20.6 | 22.61 | 5.8 | 5.8 | 0.77 | 5.2 | 2.7 |
@@ -117,10 +117,10 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Groß (+738072), Schade (+342670), Kostoulas (+271728), De Cuyper (+263029), Hall (+212790), Tarkowski (+184879), Brobbey (+154867), Barnes (+131588)
-**Likely fallers:** João Pedro (-316258), Szoboszlai (-165389), Elanga (-158535), B.Fernandes (-147317), M.Sangaré (-124941), Tzolis (-121686), Palmer (-104650), Mbeumo (-89695)
+**Likely risers:** Groß (+747097), Schade (+347949), Kostoulas (+276079), De Cuyper (+266704), Hall (+215774), Tarkowski (+188675), Brobbey (+153229), Barnes (+133240)
+**Likely fallers:** João Pedro (-319798), Szoboszlai (-167679), Elanga (-160256), B.Fernandes (-148598), M.Sangaré (-126171), Tzolis (-122796), Palmer (-108326), Mbeumo (-90498)
 **In David's squad at drop risk:** Palmer, João Pedro, Calvert-Lewin
-**Price changes since last build:** Eze 6.3→6.2, De Cuyper 4.9→5.0, Yohanna 4.9→4.8, Gozo 5.0→4.9
+**Price changes since last build:** Zepa 4.5→4.4
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
@@ -155,7 +155,7 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 | Nicoll-Jazuli | CHE | MID | 4.5 | 1.1 | 3 | 0.0 | 60 | BOU(H)3 EVE(A)3 TOT(H)2 | 7.1 |
 
 **£4.0-or-less bargain bin (likely starters):** Latibeaudiere (COV, DEF, £4.0), Davis (IPS, DEF, £4.0), Thomas (COV, DEF, £4.0), Dasilva (COV, DEF, £4.0), Giles (HUL, DEF, £4.0)
-**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+24708), Davis £4.0 (+21268)
+**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+25296), Davis £4.0 (+21700)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
