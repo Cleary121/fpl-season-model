@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-10-01T20:25:01.465Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
+Generated: 2026-10-02T11:53:09.268Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 5
 
 ## ALERTS
@@ -117,8 +117,8 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Groß (+779570), Schade (+368165), Kostoulas (+295052), De Cuyper (+278947), Hall (+225668), Tarkowski (+213024), Brobbey (+149126), Barnes (+141945)
-**Likely fallers:** João Pedro (-331259), Szoboszlai (-177049), Elanga (-166232), B.Fernandes (-152676), M.Sangaré (-130514), Tzolis (-127157), Palmer (-120226), Kinsky (-92897)
+**Likely risers:** Groß (+784727), Schade (+371022), Kostoulas (+297739), De Cuyper (+280693), Hall (+227222), Tarkowski (+214447), Brobbey (+148651), Barnes (+143194)
+**Likely fallers:** João Pedro (-333050), Szoboszlai (-178838), Elanga (-167066), B.Fernandes (-152945), M.Sangaré (-131203), Tzolis (-128907), Palmer (-121943), Kinsky (-93434)
 **In David's squad at drop risk:** Palmer, João Pedro, Calvert-Lewin
 
 ## DIFFERENTIALS (<10% owned, high model score)
@@ -154,7 +154,7 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 | Ajer | BRE | DEF | 4.5 | 3.3 | 450 | 3.9 | 10 | AVL(A)3 LIV(H)4 HUL(A)2 | 7.3 |
 
 **£4.0-or-less bargain bin (likely starters):** Latibeaudiere (COV, DEF, £4.0), Davis (IPS, DEF, £4.0), Dasilva (COV, DEF, £4.0), Thomas (COV, DEF, £4.0), Giles (HUL, DEF, £4.0)
-**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+27678), Davis £4.0 (+22621)
+**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+28117), Davis £4.0 (+22902)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
