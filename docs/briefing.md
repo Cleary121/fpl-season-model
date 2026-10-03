@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-10-02T11:53:09.268Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
+Generated: 2026-10-03T11:06:14.767Z · Next: **Gameweek 6** · Deadline: **2026-10-10T10:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 5
 
 ## ALERTS
@@ -86,10 +86,10 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Groß | BHA | 5.8 | 29.0 | 35.82 | 10.7 | 10.7 | 0.53 | 5.2 | 3.0 |
-| Barnes | NEW | 6.1 | 5.7 | 26.33 | 7.7 | 7.7 | 0.22 | 6.6 | 2.7 |
+| Groß | BHA | 5.8 | 29.1 | 35.82 | 10.7 | 10.7 | 0.53 | 5.2 | 3.0 |
+| Barnes | NEW | 6.1 | 5.8 | 26.33 | 7.7 | 7.7 | 0.22 | 6.6 | 2.7 |
 | Janelt | BRE | 5.0 | 2.5 | 21.53 | 6.0 | 6.0 | 0.19 | 12.8 | 3.0 |
-| Mbeumo | MUN | 7.9 | 20.6 | 17.21 | 4.0 | 4.0 | 0.77 | 5.2 | 2.7 |
+| Mbeumo | MUN | 7.9 | 20.5 | 17.21 | 4.0 | 4.0 | 0.77 | 5.2 | 2.7 |
 | Gibbs-White | NFO | 8.0 | 15.7 | 16.73 | 4.3 | 4.3 | 0.60 | 4.2 | 3.0 |
 | Ampadu | LEE | 5.4 | 0.9 | 15.62 | 4.7 | 4.7 | 0.07 | 12 | 4.0 |
 | B.Fernandes | MUN | 11.9 | 38.5 | 11.32 | 2.0 | 2.0 | 0.78 | 5.8 | 2.7 |
@@ -117,15 +117,16 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** Groß (+784727), Schade (+371022), Kostoulas (+297739), De Cuyper (+280693), Hall (+227222), Tarkowski (+214447), Brobbey (+148651), Barnes (+143194)
-**Likely fallers:** João Pedro (-333050), Szoboszlai (-178838), Elanga (-167066), B.Fernandes (-152945), M.Sangaré (-131203), Tzolis (-128907), Palmer (-121943), Kinsky (-93434)
+**Likely risers:** Groß (+797261), Schade (+377589), Kostoulas (+303366), De Cuyper (+284655), Hall (+230542), Tarkowski (+217380), Brobbey (+147762), Barnes (+146305)
+**Likely fallers:** João Pedro (-337005), Szoboszlai (-184410), Elanga (-168935), B.Fernandes (-153830), Tzolis (-134906), M.Sangaré (-132670), Palmer (-125732), Kinsky (-94586)
 **In David's squad at drop risk:** Palmer, João Pedro, Calvert-Lewin
+**Price changes since last build:** Henderson 5.0→4.9, Longstaff 4.9→4.8, Mamardashvili 4.9→4.8, Szoboszlai 7.0→6.9, Aït-Nouri 5.3→5.2, I.Sangaré 4.9→4.8
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
 | Player | Team | Pos | £ | Owned% | Score |
 | --- | --- | --- | --- | --- | --- |
-| Barnes | NEW | MID | 6.1 | 5.7 | 26.33 |
+| Barnes | NEW | MID | 6.1 | 5.8 | 26.33 |
 | A.Becker | LIV | GKP | 5.5 | 4.1 | 25.15 |
 | Janelt | BRE | MID | 5.0 | 2.5 | 21.53 |
 | Davis | IPS | DEF | 4.0 | 6.9 | 19.95 |
@@ -154,7 +155,7 @@ David: rank 3 of 9+ · 62 pts behind 1st.
 | Ajer | BRE | DEF | 4.5 | 3.3 | 450 | 3.9 | 10 | AVL(A)3 LIV(H)4 HUL(A)2 | 7.3 |
 
 **£4.0-or-less bargain bin (likely starters):** Latibeaudiere (COV, DEF, £4.0), Davis (IPS, DEF, £4.0), Dasilva (COV, DEF, £4.0), Thomas (COV, DEF, £4.0), Giles (HUL, DEF, £4.0)
-**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+28117), Davis £4.0 (+22902)
+**Cheap players the crowd is buying now (price-rise watch):** Leno £4.5 (+29089), Davis £4.0 (+23524)
 
 ## FIXTURE DIFFICULTY — next 6 (sorted easiest first)
 
