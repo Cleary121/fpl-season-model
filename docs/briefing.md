@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-10-15T10:51:40.437Z · Next: **Gameweek 7** · Deadline: **2026-10-17T10:00:00Z** (UTC)
+Generated: 2026-10-15T19:17:51.866Z · Next: **Gameweek 7** · Deadline: **2026-10-17T10:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 6
 
 ## ALERTS
@@ -73,38 +73,38 @@ David: rank 3 of 9+ · 52 pts behind 1st.
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| De Cuyper | BHA | 5.1 | 35.8 | 33.76 | 10.5 | 10.5 | 0.45 | 3.49 | 3.7 |
+| De Cuyper | BHA | 5.1 | 36.1 | 33.76 | 10.5 | 10.5 | 0.45 | 3.49 | 3.7 |
 | Dasilva | COV | 4.0 | 1.0 | 32.83 | 10.0 | 10.0 | 0.18 | 4.38 | 2.7 |
 | Tarkowski | EVE | 6.2 | 18.4 | 26.9 | 8.5 | 8.5 | 0.04 | 11.33 | 4.0 |
 | Vuskovic | BHA | 5.1 | 4.7 | 26.29 | 8.0 | 8.0 | 0.14 | 9.91 | 3.7 |
-| Justin | LEE | 4.5 | 1.6 | 23.52 | 7.0 | 7.0 | 0.14 | 8.52 | 3.3 |
-| Thomas | COV | 4.0 | 8.8 | 23.3 | 6.5 | 6.5 | 0.14 | 12.64 | 2.7 |
-| Hall | NEW | 5.3 | 20.7 | 22.72 | 6.5 | 6.5 | 0.18 | 8.68 | 3.0 |
+| Justin | LEE | 4.5 | 1.7 | 23.52 | 7.0 | 7.0 | 0.14 | 8.52 | 3.3 |
+| Thomas | COV | 4.0 | 8.9 | 23.3 | 6.5 | 6.5 | 0.14 | 12.64 | 2.7 |
+| Hall | NEW | 5.3 | 20.6 | 22.72 | 6.5 | 6.5 | 0.18 | 8.68 | 3.0 |
 | Ajer | BRE | 4.5 | 3.8 | 22.48 | 6.5 | 6.5 | 0.07 | 9.83 | 3.0 |
 
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Semenyo | MCI | 8.3 | 13.8 | 33.15 | 10.0 | 10.0 | 0.30 | 4.17 | 2.7 |
-| Groß | BHA | 6.0 | 39.9 | 32.8 | 10.0 | 10.0 | 0.51 | 6 | 3.7 |
+| Semenyo | MCI | 8.3 | 13.9 | 33.15 | 10.0 | 10.0 | 0.30 | 4.17 | 2.7 |
+| Groß | BHA | 6.0 | 40.2 | 32.8 | 10.0 | 10.0 | 0.51 | 6 | 3.7 |
 | Cunha | MUN | 7.9 | 6.5 | 32.33 | 10.0 | 10.0 | 0.32 | 4.89 | 3.3 |
 | Buendía | AVL | 5.9 | 1.2 | 27.46 | 8.0 | 8.0 | 0.32 | 8.53 | 3.0 |
 | McGinn | AVL | 5.4 | 2.6 | 27.12 | 8.0 | 8.0 | 0.33 | 6.18 | 3.0 |
 | Dewsbury-Hall | EVE | 6.6 | 5.8 | 26.21 | 8.0 | 8.0 | 0.38 | 8.67 | 4.0 |
 | Gomez | BHA | 5.0 | 3.6 | 22.09 | 6.5 | 6.5 | 0.31 | 9.52 | 3.7 |
-| Rogers | CHE | 7.9 | 45.2 | 20.74 | 5.5 | 5.5 | 0.55 | 7.62 | 3.0 |
+| Rogers | CHE | 7.9 | 45.3 | 20.74 | 5.5 | 5.5 | 0.55 | 7.62 | 3.0 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Haaland | MCI | 15.6 | 75.3 | 22.9 | 6.0 | 6.0 | 0.91 | 4.25 | 2.7 |
+| Haaland | MCI | 15.6 | 75.4 | 22.9 | 6.0 | 6.0 | 0.91 | 4.25 | 2.7 |
 | Barry | EVE | 5.7 | 8.7 | 20.52 | 6.0 | 6.0 | 0.82 | 3.59 | 4.0 |
 | Thiago | BRE | 7.8 | 9.2 | 16.61 | 4.5 | 4.5 | 0.59 | 4.4 | 3.0 |
 | Evanilson | BOU | 6.0 | 3.6 | 15.22 | 4.5 | 4.5 | 0.37 | 6.13 | 3.3 |
 | Gonzalo | FUL | 6.1 | 7.2 | 10.28 | 2.0 | 2.0 | 0.63 | 3.35 | 2.3 |
 | Calvert-Lewin | LEE | 6.0 | 22.6 | 8.43 | 2.0 | 2.0 | 0.54 | 4.6 | 3.3 |
 | Havertz | ARS | 7.5 | 6.6 | 7.84 | 2.0 | 2.0 | 0.40 | 2.34 | 3.3 |
-| Wissa | NEW | 6.3 | 17.8 | 5.54 | 1.0 | 1.0 | 0.45 | 4.69 | 3.0 |
+| Wissa | NEW | 6.3 | 17.7 | 5.54 | 1.0 | 1.0 | 0.45 | 4.69 | 3.0 |
 
 ## DEFCON BANKERS (hidden +2/game: DEF ≥10, MID ≥12 actions/90)
 
@@ -123,10 +123,9 @@ David: rank 3 of 9+ · 52 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** De Cuyper (+464765), Groß (+420870), João Pedro (+404892), Cherki (+384535), Rogers (+269339), Belloumi (+141146), Palmer (+112812), Calafiori (+110902)
-**Likely fallers:** B.Fernandes (-310107), Isak (-300272), Szoboszlai (-281732), Gakpo (-211367), Tzolis (-142290), Wissa (-130874), Gibbs-White (-115302), Schade (-97641)
+**Likely risers:** De Cuyper (+493687), Groß (+448828), João Pedro (+426659), Cherki (+418173), Rogers (+284337), Belloumi (+151410), Palmer (+118911), Calafiori (+117598)
+**Likely fallers:** B.Fernandes (-335570), Isak (-320336), Szoboszlai (-311968), Gakpo (-222032), Tzolis (-151046), Wissa (-146710), Gibbs-White (-126298), Schade (-109421)
 **In David's squad at drop risk:** Ødegaard, Gibbs-White
-**Price changes since last build:** Dasilva 4.9→4.8, Mazraoui 4.4→4.3, Muñoz 5.4→5.3, Senesi 5.8→5.7, Pedro Porro 5.4→5.3
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
@@ -138,8 +137,8 @@ David: rank 3 of 9+ · 52 pts behind 1st.
 | McGinn | AVL | MID | 5.4 | 2.6 | 27.12 |
 | Vuskovic | BHA | DEF | 5.1 | 4.7 | 26.29 |
 | Dewsbury-Hall | EVE | MID | 6.6 | 5.8 | 26.21 |
-| Justin | LEE | DEF | 4.5 | 1.6 | 23.52 |
-| Thomas | COV | DEF | 4.0 | 8.8 | 23.3 |
+| Justin | LEE | DEF | 4.5 | 1.7 | 23.52 |
+| Thomas | COV | DEF | 4.0 | 8.9 | 23.3 |
 
 ## BUDGET GEMS — enablers £4.5 and under, ranked by likelihood of playing
 
@@ -147,8 +146,8 @@ David: rank 3 of 9+ · 52 pts behind 1st.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Latibeaudiere | COV | DEF | 4.0 | 0.5 | 1 | 0.0 | 180 | TOT(A)3 FUL(H)2 SUN(H)3 | 18.5 |
 | Dasilva | COV | DEF | 4.0 | 10.0 | 534 | 1.0 | 4.38 | TOT(A)3 FUL(H)2 SUN(H)3 | 13.4 |
-| Justin | LEE | DEF | 4.5 | 7.0 | 528 | 1.6 | 8.52 | MUN(H)4 SUN(A)3 BOU(A)3 | 10.8 |
-| Thomas | COV | DEF | 4.0 | 6.5 | 527 | 8.8 | 12.64 | TOT(A)3 FUL(H)2 SUN(H)3 | 10.7 |
+| Justin | LEE | DEF | 4.5 | 7.0 | 528 | 1.7 | 8.52 | MUN(H)4 SUN(A)3 BOU(A)3 | 10.8 |
+| Thomas | COV | DEF | 4.0 | 6.5 | 527 | 8.9 | 12.64 | TOT(A)3 FUL(H)2 SUN(H)3 | 10.7 |
 | Ajer | BRE | DEF | 4.5 | 6.5 | 540 | 3.8 | 9.83 | LIV(H)4 HUL(A)2 NFO(H)3 | 10.5 |
 | O'Shea | IPS | DEF | 4.0 | 6.5 | 540 | 2.6 | 9.5 | MCI(A)5 NFO(H)3 HUL(A)2 | 10.4 |
 | F.Kadıoğlu | BHA | DEF | 4.4 | 7.0 | 422 | 1.6 | 4.69 | CRY(H)2 LIV(A)4 MCI(A)5 | 9.8 |
