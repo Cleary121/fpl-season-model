@@ -1,12 +1,11 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-11-11T13:33:24.138Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
+Generated: 2026-11-12T14:37:59.028Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 10
 
 ## ALERTS
 
 - No injury or availability flags in the squad.
 - No double gameweeks scheduled in the next 6.
-- LA LIGA MONEY: rank 3 (no change since last build).
 
 ## MY SQUAD
 
@@ -31,23 +30,7 @@ Bank: £1.1m · Value: £104.4m · Chips used: wildcard@GW3, 3xc@GW4, bboost@GW7
 
 ## LA LIGA MONEY (main league)
 
-| Rank | Manager | Team | Total | GW |
-| --- | --- | --- | --- | --- |
-| 1 | G C | The GC Effect | 699 | 63 |
-| 2 | Tom Murphy | McGinn & Tonic | 664 | 67 |
-| 3 | David Cleary | Premier FC ⬅ DAVID | 648 | 64 |
-| 4 | Adam Scott | Adam's Team | 626 | 57 |
-| 5 | Declan Murphy | Luke Chadwick FC | 622 | 58 |
-| 6 | Isaac Mulhall | Glök14 | 575 | 55 |
-| 7 | joe myers | Top bin 27 | 573 | 70 |
-| 8 | Derek Mulhall | Redbullgivesyouwins | 564 | 74 |
-| 9 | Timmy mahon | Timskings | 529 | 57 |
-
-David: rank 3 of 9+ · 51 pts behind 1st.
-- Rival "The GC Effect" (rank 1, 699 pts): captain Haaland; owns that David doesn't: Raya, Silva, Mbeumo, Doku, N.Jackson, Dubravka
-- Rival "McGinn & Tonic" (rank 2, 664 pts): captain Haaland; owns that David doesn't: Kinsky, Muharemović, Manzambi, Ødegaard, N.Jackson, Dubravka
-- Rival "Adam's Team" (rank 4, 626 pts): captain Haaland; owns that David doesn't: Kinsky, Jacquet, Dewsbury-Hall, Kostoulas, Lammens, Barnes
-- Rival "Luke Chadwick FC" (rank 5, 622 pts): captain Haaland; owns that David doesn't: Raya, Van Hecke, Foden, Mbeumo, Isak, N.Jackson
+League standings not available yet (season not started or league empty).
 
 ## CAPTAINCY RANKING (from squad)
 
@@ -66,7 +49,7 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Raya | ARS | 6.2 | 47.5 | 20.15 | 6.8 | 6.8 | 0.00 | 0 | 3.7 |
-| Verbruggen | BHA | 4.7 | 23.9 | 19.43 | 6.2 | 6.2 | 0.02 | 0 | 3.0 |
+| Verbruggen | BHA | 4.7 | 24.0 | 19.43 | 6.2 | 6.2 | 0.02 | 0 | 3.0 |
 | Trafford | LEE | 5.0 | 6.4 | 17.76 | 6.0 | 6.0 | 0.00 | 0 | 3.7 |
 | Kinsky | TOT | 4.4 | 15.6 | 16.15 | 4.8 | 4.8 | 0.00 | 0 | 2.3 |
 
@@ -75,8 +58,8 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Konsa | ARS | 4.8 | 24.5 | 32.31 | 10.2 | 10.2 | 0.08 | 8.13 | 3.7 |
 | Gabriel | ARS | 8.1 | 26.1 | 31.66 | 9.8 | 9.8 | 0.17 | 9.1 | 3.7 |
-| Van Hecke | TOT | 5.1 | 14.5 | 26.92 | 7.5 | 7.5 | 0.24 | 8.5 | 2.3 |
-| Vuskovic | BHA | 5.3 | 9.2 | 25.69 | 7.5 | 7.5 | 0.15 | 9.23 | 3.0 |
+| Van Hecke | TOT | 5.1 | 14.6 | 26.92 | 7.5 | 7.5 | 0.24 | 8.5 | 2.3 |
+| Vuskovic | BHA | 5.3 | 9.3 | 25.69 | 7.5 | 7.5 | 0.15 | 9.23 | 3.0 |
 | Hill | BOU | 5.6 | 3.0 | 23.78 | 7.0 | 7.0 | 0.13 | 11.5 | 3.3 |
 | Silva | BOU | 5.1 | 3.7 | 23.32 | 6.8 | 6.8 | 0.17 | 10.6 | 3.3 |
 | Muharemović | LEE | 5.1 | 6.4 | 22.51 | 6.8 | 6.8 | 0.09 | 11.2 | 3.7 |
@@ -87,24 +70,24 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ayari | BHA | 5.5 | 2.3 | 23.83 | 7.0 | 7.0 | 0.31 | 5.1 | 3.0 |
 | Tavernier | BOU | 6.7 | 31.3 | 23.57 | 6.5 | 6.5 | 0.61 | 8.36 | 3.3 |
-| Wirtz | LIV | 7.2 | 5.5 | 23.36 | 6.5 | 6.5 | 0.35 | 7.28 | 2.7 |
-| E.Le Fée | SUN | 5.7 | 2.7 | 23.15 | 6.5 | 6.5 | 0.59 | 6.15 | 3.3 |
+| Wirtz | LIV | 7.2 | 5.6 | 23.36 | 6.5 | 6.5 | 0.35 | 7.28 | 2.7 |
+| E.Le Fée | SUN | 5.7 | 2.8 | 23.15 | 6.5 | 6.5 | 0.59 | 6.15 | 3.3 |
 | Neto | CHE | 6.6 | 5.0 | 20.83 | 5.5 | 5.5 | 0.34 | 7.2 | 2.3 |
-| Rudoni | COV | 4.9 | 1.2 | 20.67 | 5.2 | 5.2 | 0.48 | 8.38 | 2.3 |
-| Manzambi | AVL | 6.2 | 8.6 | 20.54 | 5.2 | 5.2 | 0.50 | 7.22 | 2.3 |
 | Enciso | IPS | 5.5 | 1.1 | 19.79 | 5.2 | 5.2 | 0.46 | 6.55 | 2.7 |
+| Gomez | BHA | 5.0 | 4.3 | 19.76 | 5.5 | 5.5 | 0.26 | 8.87 | 3.0 |
+| Rice | ARS | 7.5 | 13.7 | 19.73 | 5.8 | 5.8 | 0.29 | 8.65 | 3.7 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N.Jackson | AVL | 7.1 | 30.9 | 30.32 | 8.8 | 8.8 | 0.54 | 3.37 | 2.3 |
-| Evanilson | BOU | 6.5 | 23.6 | 29.62 | 9.0 | 9.0 | 0.59 | 6.99 | 3.3 |
+| N.Jackson | AVL | 7.1 | 31.0 | 30.32 | 8.8 | 8.8 | 0.54 | 3.37 | 2.3 |
+| Evanilson | BOU | 6.5 | 23.7 | 29.62 | 9.0 | 9.0 | 0.59 | 6.99 | 3.3 |
 | Isak | LIV | 9.3 | 25.0 | 24.74 | 7.0 | 7.0 | 0.62 | 1.81 | 2.7 |
-| Barry | EVE | 5.7 | 10.6 | 24.64 | 7.2 | 7.2 | 0.82 | 3.49 | 3.7 |
+| Barry | EVE | 5.7 | 10.7 | 24.64 | 7.2 | 7.2 | 0.82 | 3.49 | 3.7 |
 | Haaland | MCI | 15.8 | 78.9 | 22.06 | 6.2 | 6.2 | 0.80 | 3.24 | 3.3 |
 | McBurnie | HUL | 5.5 | 1.7 | 19.76 | 6.0 | 6.0 | 0.25 | 4.27 | 3.0 |
 | Delap | NFO | 5.3 | 1.6 | 16.49 | 4.8 | 4.8 | 0.46 | 3.98 | 3.3 |
-| Kostoulas | BHA | 5.8 | 9.9 | 15.65 | 4.5 | 4.5 | 0.35 | 6.84 | 3.0 |
+| Kostoulas | BHA | 5.8 | 9.8 | 15.65 | 4.5 | 4.5 | 0.35 | 6.84 | 3.0 |
 
 ## DEFCON BANKERS (hidden +2/game: DEF ≥10, MID ≥12 actions/90)
 
@@ -128,21 +111,21 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** N.Jackson (+275090), Barry (+189781), Evanilson (+180317), Van Hecke (+158918), Vuskovic (+136423), De Cuyper (+132268), Konsa (+116832), Isak (+92493)
-**Likely fallers:** João Pedro (-289522), Gvardiol (-268194), Guéhi (-129571), Calvert-Lewin (-99573), Thiago (-87451), Mbeumo (-67387), Hall (-58607), Wissa (-55224)
+**Likely risers:** N.Jackson (+289911), Barry (+195040), Evanilson (+190606), Van Hecke (+165817), Vuskovic (+145264), De Cuyper (+139382), Konsa (+122685), Tavernier (+97746)
+**Likely fallers:** João Pedro (-302923), Gvardiol (-279400), Guéhi (-136667), Calvert-Lewin (-103635), Thiago (-92953), Mbeumo (-71060), Hall (-61298), Wissa (-57620)
 **In David's squad at drop risk:** Calvert-Lewin
-**Price changes since last build:** Verbruggen 4.6→4.7, Dewsbury-Hall 6.6→6.7, Amass 4.0→3.9
+**Price changes since last build:** Steur 4.8→4.7
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
 | Player | Team | Pos | £ | Owned% | Score |
 | --- | --- | --- | --- | --- | --- |
-| Vuskovic | BHA | DEF | 5.3 | 9.2 | 25.69 |
+| Vuskovic | BHA | DEF | 5.3 | 9.3 | 25.69 |
 | Ayari | BHA | MID | 5.5 | 2.3 | 23.83 |
 | Hill | BOU | DEF | 5.6 | 3.0 | 23.78 |
-| Wirtz | LIV | MID | 7.2 | 5.5 | 23.36 |
+| Wirtz | LIV | MID | 7.2 | 5.6 | 23.36 |
 | Silva | BOU | DEF | 5.1 | 3.7 | 23.32 |
-| E.Le Fée | SUN | MID | 5.7 | 2.7 | 23.15 |
+| E.Le Fée | SUN | MID | 5.7 | 2.8 | 23.15 |
 | Muharemović | LEE | DEF | 5.1 | 6.4 | 22.51 |
 | Neto | CHE | MID | 6.6 | 5.0 | 20.83 |
 
