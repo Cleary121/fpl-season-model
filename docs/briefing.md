@@ -1,11 +1,12 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-11-12T21:52:48.802Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
+Generated: 2026-11-13T13:55:30.514Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 10
 
 ## ALERTS
 
 - No injury or availability flags in the squad.
 - No double gameweeks scheduled in the next 6.
+- LA LIGA MONEY: rank 3 (no change since last build).
 
 ## MY SQUAD
 
@@ -96,7 +97,7 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N.Jackson | AVL | 7.1 | 31.1 | 30.32 | 8.8 | 8.8 | 0.54 | 3.37 | 2.3 |
+| N.Jackson | AVL | 7.1 | 31.2 | 30.32 | 8.8 | 8.8 | 0.54 | 3.37 | 2.3 |
 | Evanilson | BOU | 6.5 | 23.8 | 29.62 | 9.0 | 9.0 | 0.59 | 6.99 | 3.3 |
 | Isak | LIV | 9.3 | 25.1 | 24.74 | 7.0 | 7.0 | 0.62 | 1.81 | 2.7 |
 | Barry | EVE | 5.7 | 10.7 | 24.64 | 7.2 | 7.2 | 0.82 | 3.49 | 3.7 |
@@ -127,8 +128,8 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** N.Jackson (+295933), Barry (+196955), Evanilson (+194604), Van Hecke (+168535), Vuskovic (+148615), De Cuyper (+142274), Konsa (+124933), Tavernier (+100113)
-**Likely fallers:** João Pedro (-308244), Gvardiol (-283786), Guéhi (-139738), Calvert-Lewin (-105134), Thiago (-95359), Mbeumo (-72426), Hall (-62174), Wissa (-58596)
+**Likely risers:** N.Jackson (+303681), Evanilson (+199698), Barry (+199107), Van Hecke (+172210), Vuskovic (+152629), De Cuyper (+145683), Konsa (+128018), Tavernier (+103077)
+**Likely fallers:** João Pedro (-314725), Gvardiol (-289300), Guéhi (-143283), Calvert-Lewin (-107224), Thiago (-98127), Mbeumo (-74230), Hall (-63380), Wissa (-59862)
 **In David's squad at drop risk:** Calvert-Lewin
 
 ## DIFFERENTIALS (<10% owned, high model score)
