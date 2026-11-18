@@ -1,5 +1,5 @@
 # FPL Pre-Chewed Briefing — Premier FC
-Generated: 2026-11-17T15:29:35.135Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
+Generated: 2026-11-18T15:06:11.356Z · Next: **Gameweek 11** · Deadline: **2026-11-21T11:00:00Z** (UTC)
 Entry 3509857 · League "La liga money" (167948) · Finished GWs: 10
 
 ## ALERTS
@@ -15,9 +15,9 @@ Bank: £1.1m · Value: £104.4m · Chips used: wildcard@GW3, 3xc@GW4, bboost@GW7
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Verbruggen | BHA | GKP | 4.7 | 6.3 | 6.3 | -0.2 | 0 | 19.73 | HUL(A)2 NEW(H)3 BOU(A)4 | OK |
 | Tzolakis | HUL | GKP | 4.7 | 3.3 | 3.3 | 0.0 | 0 | 10.65 | BHA(H)4 CRY(A)2 NFO(H)3 | OK |
-| Gabriel | ARS | DEF | 8.1 | 9.8 | 9.8 | -0.7 | 9.1 | 31.66 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
-| Calafiori | ARS | DEF | 5.9 | 4.8 | 4.8 | 0.8 | 4.93 | 16.18 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
-| Konsa | ARS | DEF | 4.9 | 10.2 | 10.2 | 0.3 | 8.13 | 32.31 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
+| Gabriel | ARS | DEF | 8.1 | 10.3 | 10.3 | -0.7 | 9.1 | 33.16 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
+| Calafiori | ARS | DEF | 5.9 | 4.3 | 4.3 | 0.8 | 4.93 | 14.68 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
+| Konsa | ARS | DEF | 4.9 | 10.7 | 10.7 | 0.3 | 8.13 | 33.81 | NEW(A)3 MCI(H)4 BRE(A)4 | OK |
 | De Cuyper | BHA | DEF | 5.5 | 5.3 | 5.3 | 2.1 | 3.61 | 19.08 | HUL(A)2 NEW(H)3 BOU(A)4 | OK |
 | Ajayi | HUL | DEF | 4.2 | 4.0 | 4.0 | 0.2 | 7.61 | 14.62 | BHA(H)4 CRY(A)2 NFO(H)3 | OK |
 | Tavernier | BOU | MID | 6.7 | 5.3 | 5.3 | -0.7 | 8.36 | 19.97 | NFO(H)3 FUL(A)3 BHA(H)4 | OK |
@@ -66,43 +66,43 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Trafford | LEE | 5.0 | 6.5 | 21.66 | 7.3 | 7.3 | 0.00 | 0 | 3.7 |
-| Raya | ARS | 6.2 | 47.6 | 20.15 | 6.8 | 6.8 | 0.00 | 0 | 3.7 |
 | Verbruggen | BHA | 4.7 | 24.0 | 19.73 | 6.3 | 6.3 | 0.02 | 0 | 3.0 |
 | Roefs | SUN | 4.8 | 1.9 | 19.16 | 6.3 | 6.3 | 0.00 | 0 | 3.3 |
+| Raya | ARS | 6.2 | 47.6 | 17.75 | 6.0 | 6.0 | 0.00 | 0 | 3.7 |
 
 **DEF**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Konsa | ARS | 4.9 | 24.8 | 32.31 | 10.2 | 10.2 | 0.08 | 8.13 | 3.7 |
-| Gabriel | ARS | 8.1 | 26.2 | 31.66 | 9.8 | 9.8 | 0.17 | 9.1 | 3.7 |
-| Van Hecke | TOT | 5.1 | 15.0 | 26.92 | 7.5 | 7.5 | 0.24 | 8.5 | 2.3 |
+| Konsa | ARS | 4.9 | 24.9 | 33.81 | 10.7 | 10.7 | 0.08 | 8.13 | 3.7 |
+| Gabriel | ARS | 8.1 | 26.3 | 33.16 | 10.3 | 10.3 | 0.17 | 9.1 | 3.7 |
+| Van Hecke | TOT | 5.1 | 15.1 | 26.92 | 7.5 | 7.5 | 0.24 | 8.5 | 2.3 |
 | Araujo | LIV | 5.5 | 4.5 | 24.69 | 7.0 | 7.0 | 0.16 | 8.96 | 2.7 |
 | Muharemović | LEE | 5.1 | 6.5 | 24.01 | 7.3 | 7.3 | 0.09 | 11.2 | 3.7 |
 | Hill | BOU | 5.6 | 3.1 | 23.78 | 7.0 | 7.0 | 0.13 | 11.5 | 3.3 |
-| Vuskovic | BHA | 5.3 | 9.6 | 22.09 | 6.3 | 6.3 | 0.15 | 9.23 | 3.0 |
+| Vuskovic | BHA | 5.3 | 9.8 | 22.09 | 6.3 | 6.3 | 0.15 | 9.23 | 3.0 |
 | Silva | BOU | 5.1 | 3.7 | 21.82 | 6.3 | 6.3 | 0.17 | 10.6 | 3.3 |
 
 **MID**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E.Le Fée | SUN | 5.7 | 2.8 | 25.55 | 7.3 | 7.3 | 0.59 | 6.15 | 3.3 |
-| Wirtz | LIV | 7.2 | 5.8 | 24.86 | 7.0 | 7.0 | 0.35 | 7.28 | 2.7 |
+| Wirtz | LIV | 7.2 | 5.9 | 24.86 | 7.0 | 7.0 | 0.35 | 7.28 | 2.7 |
 | Enciso | IPS | 5.5 | 1.1 | 23.09 | 6.3 | 6.3 | 0.46 | 6.55 | 2.7 |
-| McGinn | AVL | 5.4 | 3.7 | 20.71 | 5.3 | 5.3 | 0.46 | 7.29 | 2.3 |
+| McGinn | AVL | 5.4 | 3.8 | 20.71 | 5.3 | 5.3 | 0.46 | 7.29 | 2.3 |
 | Tavernier | BOU | 6.7 | 31.6 | 19.97 | 5.3 | 5.3 | 0.61 | 8.36 | 3.3 |
-| Rice | ARS | 7.5 | 13.7 | 19.73 | 5.8 | 5.8 | 0.29 | 8.65 | 3.7 |
+| Ødegaard | ARS | 6.7 | 16.5 | 19.79 | 5.7 | 5.7 | 0.53 | 4.81 | 3.7 |
 | Rudoni | COV | 4.9 | 1.3 | 19.47 | 4.8 | 4.8 | 0.48 | 8.38 | 2.3 |
 | Bobb | FUL | 5.5 | 0.5 | 18.39 | 5.3 | 5.3 | 0.44 | 5.93 | 3.7 |
 
 **FWD**
 | Player | Team | £ | Owned% | Score | Form | ep_next | xGI/90 | DefCon/90 | Next 3 avg FDR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N.Jackson | AVL | 7.1 | 31.7 | 36.92 | 11.0 | 11.0 | 0.54 | 3.37 | 2.3 |
+| N.Jackson | AVL | 7.1 | 31.9 | 36.92 | 11.0 | 11.0 | 0.54 | 3.37 | 2.3 |
 | Barry | EVE | 5.7 | 10.9 | 30.04 | 9.0 | 9.0 | 0.82 | 3.49 | 3.7 |
-| Evanilson | BOU | 6.5 | 24.1 | 26.62 | 8.0 | 8.0 | 0.59 | 6.99 | 3.3 |
+| Evanilson | BOU | 6.5 | 24.2 | 26.62 | 8.0 | 8.0 | 0.59 | 6.99 | 3.3 |
 | McBurnie | HUL | 5.5 | 1.7 | 23.66 | 7.3 | 7.3 | 0.25 | 4.27 | 3.0 |
-| Isak | LIV | 9.3 | 25.2 | 22.64 | 6.3 | 6.3 | 0.62 | 1.81 | 2.7 |
-| Delap | NFO | 5.3 | 1.6 | 16.49 | 4.8 | 4.8 | 0.46 | 3.98 | 3.3 |
+| Isak | LIV | 9.3 | 25.3 | 22.64 | 6.3 | 6.3 | 0.62 | 1.81 | 2.7 |
+| Delap | NFO | 5.3 | 1.6 | 19.19 | 5.7 | 5.7 | 0.46 | 3.98 | 3.3 |
 | Haaland | MCI | 15.8 | 78.8 | 15.46 | 4.0 | 4.0 | 0.80 | 3.24 | 3.3 |
 | Marmoush | TOT | 7.0 | 2.5 | 13.91 | 3.8 | 3.8 | 0.19 | 4.69 | 2.3 |
 
@@ -128,23 +128,23 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 
 ## PRICE WATCH (net transfers this GW)
 
-**Likely risers:** N.Jackson (+354244), Evanilson (+229945), Barry (+211161), Van Hecke (+199253), Vuskovic (+179154), De Cuyper (+168237), Konsa (+146329), Tavernier (+120121)
-**Likely fallers:** João Pedro (-354600), Gvardiol (-325655), Guéhi (-165434), Calvert-Lewin (-120104), Thiago (-115574), Mbeumo (-84867), Hall (-72105), Wissa (-67630)
+**Likely risers:** N.Jackson (+379681), Evanilson (+241992), Van Hecke (+217039), Barry (+215807), Vuskovic (+192588), De Cuyper (+179460), Konsa (+153387), Tavernier (+126367)
+**Likely fallers:** João Pedro (-370713), Gvardiol (-344366), Guéhi (-175081), Calvert-Lewin (-127065), Thiago (-123210), Mbeumo (-90274), Hall (-78500), Wissa (-71428)
 **In David's squad at drop risk:** Calvert-Lewin
-**Price changes since last build:** Cook 5.0→4.9, Mingueza 4.3→4.2, J.Fletcher 4.9→4.8
+**Price changes since last build:** Barnes 6.1→6.0
 
 ## DIFFERENTIALS (<10% owned, high model score)
 
 | Player | Team | Pos | £ | Owned% | Score |
 | --- | --- | --- | --- | --- | --- |
 | E.Le Fée | SUN | MID | 5.7 | 2.8 | 25.55 |
-| Wirtz | LIV | MID | 7.2 | 5.8 | 24.86 |
+| Wirtz | LIV | MID | 7.2 | 5.9 | 24.86 |
 | Araujo | LIV | DEF | 5.5 | 4.5 | 24.69 |
 | Muharemović | LEE | DEF | 5.1 | 6.5 | 24.01 |
 | Hill | BOU | DEF | 5.6 | 3.1 | 23.78 |
 | McBurnie | HUL | FWD | 5.5 | 1.7 | 23.66 |
 | Enciso | IPS | MID | 5.5 | 1.1 | 23.09 |
-| Vuskovic | BHA | DEF | 5.3 | 9.6 | 22.09 |
+| Vuskovic | BHA | DEF | 5.3 | 9.8 | 22.09 |
 
 ## BUDGET GEMS — enablers £4.5 and under, ranked by likelihood of playing
 
@@ -160,7 +160,7 @@ David: rank 3 of 9+ · 51 pts behind 1st.
 | Robinson | FUL | DEF | 4.4 | 4.3 | 789 | 1.3 | 7.41 | MCI(A)5 BOU(H)3 TOT(A)3 | 7.7 |
 | Ajayi | HUL | DEF | 4.2 | 4.0 | 851 | 11.9 | 7.61 | BHA(H)4 CRY(A)2 NFO(H)3 | 7.6 |
 | Smith | BOU | DEF | 4.5 | 4.3 | 847 | 0.2 | 4.04 | NFO(H)3 FUL(A)3 BHA(H)4 | 7.5 |
-| Bassey | FUL | DEF | 4.5 | 3.7 | 900 | 1.3 | 7.3 | MCI(A)5 BOU(H)3 TOT(A)3 | 7.4 |
+| Bassey | FUL | DEF | 4.5 | 3.7 | 900 | 1.2 | 7.3 | MCI(A)5 BOU(H)3 TOT(A)3 | 7.4 |
 | Reinildo | SUN | DEF | 4.4 | 4.0 | 792 | 0.2 | 7.16 | AVL(A)3 TOT(H)3 LIV(A)4 | 7.4 |
 | Dunk | BHA | DEF | 4.5 | 4.0 | 749 | 1.5 | 6.61 | HUL(A)2 NEW(H)3 BOU(A)4 | 7.2 |
 | Hume | SUN | DEF | 4.2 | 4.3 | 640 | 1.7 | 7.03 | AVL(A)3 TOT(H)3 LIV(A)4 | 7.1 |
